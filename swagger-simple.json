@@ -5,7 +5,7 @@ info:
   description: A sample API For DEV API to demonstrate documentation on DEV API specifications and error codes
   termsOfService: http://helloreverb.com/terms/
   contact:
-    name: Swagger API team
+    name: GD DEV API team
     email: rramat@greendotcorp.com
     url: https://developer.greendot.com/Transfer-API-Overview.html
   license:
