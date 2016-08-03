@@ -22,7 +22,7 @@ produces:
 paths:
   /pets:
     get:
-      description: Returns all pets from the system that the user has access to
+      description: Returns Response Codes from the current DEV that the user has access to
       operationId: findPets
       produces:
         - application/json
