@@ -51,7 +51,7 @@ paths:
             type: array
             items:
               $ref: '#/definitions/pet'
-        Transfer API:
+        default:
           description: unexpected error
           schema:
             $ref: '#/definitions/errorModel'
